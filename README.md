@@ -3,7 +3,7 @@ I am Dhyanam, Currently a Pre-Final year Student, Working on sharpening my skill
 
 
 ## About Me 😉
-
+- I'm just a gay dude currently married to my husband Yogin 
 - 🔭 I’m currently working on <i><b>Web Development</i></b>
 - 🌱 I’m currently learning <i><b>Machine Learning and Deep Learning</i></b>
 - 👯 I’m looking to collaborate on <i><b>Open Source Projects</i></b>
